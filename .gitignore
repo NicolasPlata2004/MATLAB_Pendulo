@@ -1,0 +1,19 @@
+# MATLAB / Simulink: archivos generados
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.autosave.zip
+*.slx.r20*
+*.mex*
+*_ert_rtw/
+*_grt_rtw/
+*.elf
+*.hex
+*.eep
+codegen/
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
